@@ -1,9 +1,8 @@
 ---
-date: 2022-07-14 15:30:55 +00:00
+date: 2022-07-14 15:30:55 -05:00
 title: Utilize a RESTful API with IBMi QSYS_HTTP Tools in SQL
 categories: [IBM i,]
-tags: [ibmi, api, qsys2, rest]
-toc: true
+tags: [ibmi, api, qsys2, rest, sql]
 ---
 
 ## The Api
